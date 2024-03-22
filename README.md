@@ -25,6 +25,7 @@
 
   
 
+<div>
   
 ### Experience
 - 💵 The 4th Pro Digital Academy (2024.03~ )
@@ -35,7 +36,7 @@
 
 ### Tech Stack
 
-
+</div>
 
 
 </div>
