@@ -22,13 +22,9 @@
 
 </div>
 
-<div style="width: 50%; float: right; text-align: left;">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdghdlr1">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JangHoIk1&layout=compact&theme=tokyonight">
-</div>
 
   
-<div style="width: 50%;">
+
   
 ### Experience
 - 💵 The 4th Pro Digital Academy (2024.03~ )
@@ -39,7 +35,6 @@
 
 ### Tech Stack
 
-</div>
 
 
 
