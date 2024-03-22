@@ -1,5 +1,7 @@
 # HOIK 😉
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:bluesky2915@gmail.com)
+
+<div style="display: flex; align-items: flex-start;">
 ### Who Am I
 - 🌱 I’m currently learning Java, Spring, Algorithm
 - 🥇 I majored in Computer Science
@@ -21,6 +23,14 @@
 - 🏀 BasketBall
 - ♦️ Holdem
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdghdlr1">
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=JangHoIk1" height="165">
+    <div style="flex: 1;">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdghdlr1">
+    </div>
+    <div style="flex: 1;">
+        <img src="https://github-readme-stats.vercel.app/api?username=JangHoIk1" height="165">
+    </div>
+
+</div>
+
+
 
