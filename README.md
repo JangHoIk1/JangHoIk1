@@ -7,6 +7,11 @@
 - 🥇 I majored in Computer Science
 - 🚅 My hometown is Busan, in Korea
 
+### What I Like
+- 🎵 Listen Music
+- 🏀 BasketBall
+- ♦️ Holdem
+- 
 ### Experience
 - 💵 The 4th Pro Digital Academy (2024.03~ )
 - 📄 Raise GLS, Research Team Intern (2023.07~2024.02)
@@ -18,12 +23,9 @@
 
 
 
-### What I Like
-- 🎵 Listen Music
-- 🏀 BasketBall
-- ♦️ Holdem
+
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdghdlr1">
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=JangHoIk1" height="165">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangHoIk1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)height="165">
 
 
