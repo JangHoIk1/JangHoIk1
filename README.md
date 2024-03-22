@@ -3,16 +3,16 @@
 
 <div>
 
-<div align="left">
+<div style="width: 50%;">
   
   
-  ### Who Am I
+### Who Am I
 - 🌱 I’m currently learning Java, Spring, Algorithm
 - 🥇 I majored in Computer Science
 - 🚅 My hometown is Busan, in Korea
 
 
-  ### What I Like
+### What I Like
 - 🎵 Listen Music
 - 🏀 BasketBall
 - ♦️ Holdem
@@ -22,6 +22,7 @@
 
   
 <div align="right">
+  
 ### Experience
 - 💵 The 4th Pro Digital Academy (2024.03~ )
 - 📄 Raise GLS, Research Team Intern (2023.07~2024.02)
