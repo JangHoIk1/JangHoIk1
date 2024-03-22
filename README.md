@@ -20,3 +20,7 @@
 - 🎵 Listen Music
 - 🏀 BasketBall
 - ♦️ Holdem
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdghdlr1">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=JangHoIk1" height="165">
+
