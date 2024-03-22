@@ -21,7 +21,7 @@
 
 
   
-<div align="right">
+<div style="width: 50%;>
   
 ### Experience
 - 💵 The 4th Pro Digital Academy (2024.03~ )
