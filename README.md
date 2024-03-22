@@ -3,10 +3,7 @@
 
 <div>
 
-<div style="width: 50%; text-align: right;">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdghdlr1">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JangHoIk1&layout=compact&theme=tokyonight">
-</div>
+
 
 
 <div style="width: 50%;">
@@ -25,6 +22,10 @@
 
 </div>
 
+<div style="width: 50%; text-align: right;">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdghdlr1">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JangHoIk1&layout=compact&theme=tokyonight">
+</div>
 
   
 <div style="width: 50%;">
