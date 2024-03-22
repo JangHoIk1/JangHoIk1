@@ -26,7 +26,7 @@
 
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdghdlr1">
-(https://github-readme-stats.vercel.app/api/top-langs/?username=JangHoIk1&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangHoIk1&layout=compact&theme=tokyonight)
 
 
 
