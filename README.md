@@ -26,6 +26,6 @@
 
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdghdlr1">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangHoIk1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)height="165">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangHoIk1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
