@@ -1,4 +1,5 @@
 # HOIK 😉
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:bluesky2915@gmail.com)
 ### Who Am I
 - 🌱 I’m currently learning Java, Spring, Algorithm
 - 🥇 I majored in Computer Science
