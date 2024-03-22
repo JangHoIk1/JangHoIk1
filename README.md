@@ -8,7 +8,8 @@
 ### Experience
 - 💵 The 4th Pro Digital Academy (2024.03~ )
 - 📄 RAISEgls, Research Team Intern (2023.07~2024.02)
-- 🌍 ETOOS, Service Operate Team (2020.10~2019.09)
+- 📄 Pinacle Investment, Web Programmer (2022.08~2023.05) 
+- 🌍 ETOOS, Service Operate Team (2020.10~2021.02)
 - 🎓 Sejong University , Computer Science (2018.03~ )
 
 ### What I Like
