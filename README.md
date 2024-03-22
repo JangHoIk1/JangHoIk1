@@ -13,4 +13,4 @@
 ### What I Like
 - 📺 Drama
 - 🔵 Game
-- 🍕 E
+- 🍕 Exercise
