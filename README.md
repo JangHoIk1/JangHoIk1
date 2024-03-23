@@ -48,18 +48,18 @@
 <h1>What I Like</h1>
 
 <div class="image-container" style="display: flex;">
-    <figure>
+    <div style="display: flex; flex-direction: column; align-items: center;">
         <img src="https://github.com/JangHoIk1/JangHoIk1/assets/94967088/f6d1887f-0ce7-4ffc-bc7e-c483d9d36061" width="200"/>
-        <figcaption>Listen Music</figcaption>
-    </figure>
-    <figure>
+        <span>Listen Music</span>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
         <img src="https://github.com/JangHoIk1/JangHoIk1/assets/94967088/c78586b4-596c-4e8f-a4bd-32130a586564" width="200"/>
-        <figcaption>BasketBall</figcaption>
-    </figure>
-    <figure>
+        <span>BasketBall</span>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
         <img src="https://github.com/JangHoIk1/JangHoIk1/assets/94967088/f845ea5e-6794-4df1-ab72-94694f9be3d8" width="200"/>
-        <figcaption>Holdem</figcaption>
-    </figure>
+        <span>Holdem</span>
+    </div>
 </div>
 
 
