@@ -5,7 +5,7 @@
 <div>
 
 <div>
-<h1>📚 Who Am I</h1>
+<h1> Who Am I</h1>
 </div> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=100&color=000000&repeat=false&random=false&width=700&height=49&lines=-+%F0%9F%8C%B1+I'm+currently+learning+Java%2C+Spring%2C+Algorithm)](https://git.io/typing-svg)
@@ -17,7 +17,7 @@
 
 <div>
   
-### Experience
+<h1>Experience</h1>
 - 💵 The 4th Pro Digital Academy (2024.03~ )
 - 📄 Raise GLS, Research Team Intern (2023.07~2024.02)
 - 🧑‍💻 Pinacle Investment, Web Programmer (2022.08~2023.05) 
@@ -27,7 +27,7 @@
 
 
 </div>
-### What I Like
+<h1>What I Like</h1>
 - 🎵 Listen Music
 - 🏀 BasketBall
 - ♦️ Holdem
@@ -38,7 +38,7 @@
 
 
 
-### Tech Stack
+<h1>Tech Stack</h1>
 
 
 
