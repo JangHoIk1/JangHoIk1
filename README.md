@@ -5,7 +5,7 @@
 <div>
 
 <div>
-<div align=center><h1>📚 Who Am I</h1>
+<h1>📚 Who Am I</h1>
 </div> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=100&color=000000&repeat=false&random=false&width=600&height=49&lines=-+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Java%2C+Spring%2C+Algorithm)](https://git.io/typing-svg)
