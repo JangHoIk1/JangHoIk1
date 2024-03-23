@@ -57,7 +57,7 @@
 
 <div style="width:200px;">
   
-![free-icon-basketball-ball-4354908](https://github.com/JangHoIk1/JangHoIk1/assets/94967088/c78586b4-596c-4e8f-a4bd-32130a586564)
+<img src="https://github.com/JangHoIk1/JangHoIk1/assets/94967088/c78586b4-596c-4e8f-a4bd-32130a586564" width="200"/>
 
 </div>
 
