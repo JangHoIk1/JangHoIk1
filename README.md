@@ -51,7 +51,7 @@
 
 <div style="width: 200px;">
   
-![free-icon-texas-holdem-poker-8582843](https://github.com/JangHoIk1/JangHoIk1/assets/94967088/f845ea5e-6794-4df1-ab72-94694f9be3d8)
+![free-icon-music-1187534](https://github.com/JangHoIk1/JangHoIk1/assets/94967088/f6d1887f-0ce7-4ffc-bc7e-c483d9d36061)
 
 </div>
 
@@ -61,11 +61,16 @@
 
 </div>
 
+
 <div style="width: 200px;">
   
-![free-icon-music-1187534](https://github.com/JangHoIk1/JangHoIk1/assets/94967088/f6d1887f-0ce7-4ffc-bc7e-c483d9d36061)
+![free-icon-texas-holdem-poker-8582843](https://github.com/JangHoIk1/JangHoIk1/assets/94967088/f845ea5e-6794-4df1-ab72-94694f9be3d8)
 
 </div>
+
+
+
+
   
 </div>
 - 🎵 Listen Music
