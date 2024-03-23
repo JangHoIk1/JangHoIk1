@@ -16,7 +16,8 @@
 </div>
 
 <h1>Tech Stack</h1>
-![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white")
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+=
 
 
 
