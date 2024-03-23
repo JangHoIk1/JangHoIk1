@@ -24,7 +24,8 @@
 - 🧑‍💻 Pinacle Investment, Web Programmer (2022.08~2023.05) 
 - 🏢 Etoos, Service Operate Team (2020.10~2021.02)
 - 🎓 Sejong University , Computer Science (2018.03~ )
-- 
+
+  
 </div>
 
 
