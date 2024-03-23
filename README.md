@@ -15,6 +15,11 @@
 
 </div>
 
+<h1>Tech Stack</h1>
+![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white")
+
+
+
 <div>
   
 <h1>Experience</h1>
@@ -41,7 +46,7 @@
 
 
 
-<h1>Tech Stack</h1>
+
 
 
 
