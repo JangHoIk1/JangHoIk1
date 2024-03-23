@@ -15,7 +15,7 @@
 </div>
 
 <h1>Tech Stack</h1>
-<div class="image-container">
+<div class="image-container" style="display: flex;">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -49,17 +49,5 @@
 
 
   
-
-
-
-<style>
-  .image-container {
-    display: flex;
-  }
-  .image-container img {
-    margin-right: 10px; /* 이미지 사이의 간격을 조절할 수 있습니다. */
-  }
-</style>
-
 
 
