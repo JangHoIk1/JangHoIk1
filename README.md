@@ -47,7 +47,4 @@
 - 🏀 BasketBall
 - ♦️ Holdem
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JangHoIk1)](https://git.io/streak-stats)
-  
-
 
