@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
   </a>
 </span>
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:wkdghdlr1@naver.com)](mailto:wkdghdlr1@naver.com)
 
 
 
@@ -59,7 +60,7 @@
 
 
 <h1>Experience</h1>
-<div>
+<div class="image-container">
 
 ![image](https://github.com/JangHoIk1/JangHoIk1/assets/94967088/a2e7d473-58f6-4bee-9ca3-75a74ccf2dcb)
 
@@ -72,7 +73,7 @@
 </div>
 
 
-<div>
+<div class="image-container" style="width:50;">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdghdlr1)](https://solved.ac/wkdghdlr1/)
 
