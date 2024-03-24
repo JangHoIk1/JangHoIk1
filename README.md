@@ -68,7 +68,7 @@ User
 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=JangHoIk1)](https://solved.ac/JangHoIk1/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdghdlr1)](https://solved.ac/wkdghdlr1/)
 
 
 </div>
