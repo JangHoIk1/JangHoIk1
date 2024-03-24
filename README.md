@@ -9,7 +9,7 @@
   </a>
 </span>
 
-<div>
+
 
 <div>
 <h1> Who Am I</h1>
@@ -19,7 +19,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=7000&pause=100&color=000000&repeat=false&random=false&width=700&height=49&lines=-+%F0%9F%A5%87+I+majored+in+Computer+Science)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=7000&pause=100&color=000000&repeat=false&random=false&width=700&height=49&lines=-+%F0%9F%9A%89+My+hometown+is+Busan%2C+in+Korea)](https://git.io/typing-svg)
 
-</div>
+
 
 <h1>What I Like</h1>
 
@@ -58,9 +58,8 @@
 
 
 
-<div>
-  
 <h1>Experience</h1>
+<div>
 
 ![image](https://github.com/JangHoIk1/JangHoIk1/assets/94967088/a2e7d473-58f6-4bee-9ca3-75a74ccf2dcb)
 
@@ -70,7 +69,6 @@
 - 🏢 (주)이투스 교육, 서비스 운영팀 (2020.10~2021.02)
 - 🎓 세종대학교 컴퓨터공학 전공 (2018.03~ )
 
-  
 </div>
 
 
