@@ -44,6 +44,50 @@
 - ♦️ Holdem
 
 
+<h1>Certification</h1>
+<div>
+<p>
+  <h4>SQL 개발자 </h4>  
+</p>
+<p>
+  <h4>데이터분석 준전문가</h4>
+</p>
+<p>
+  <h4>증권투자권유대행인</h4>
+</p>
+<p>
+  <h4>파이썬프로그래밍활용능력 1급</h4>
+</p>
+<p>
+  <h4>빅데이터분석실무 2급</h4>
+</p>
+<p>
+  <h6> 6시그마경영전문가 GB</h6>
+</p>
+<p>
+  <h4>워드프로세서 1급</h4>
+</p>
+
+</div>
+
+
+<h1>Education</h1>
+
+<div>
+  <p>
+    <h4>금융사관학교 국제경제전문가 55기 수료</h4>
+  </p>
+<p>
+  <h4>6시그마 경영전문가 GB 수료 </h4>  
+</p>
+<p>
+  <h4>파이썬 프로그래밍 실무과정 고급 수료</h4>
+</p>
+<p>
+  <h4>빅데이터 분석실무 기초과정 수료</h4>
+</p>
+</div>
+
 
 <h1>Tech Stack</h1>
 <div class="image-container" style="display: flex;">
@@ -62,8 +106,6 @@
 
 <h1>Experience</h1>
 <div class="image-container">
-
-![image](https://github.com/JangHoIk1/JangHoIk1/assets/94967088/a2e7d473-58f6-4bee-9ca3-75a74ccf2dcb)
 
 - 💵 신한투자증권 프로 디지털 아카데미 4기 (2024.03~ )
 - 📄 레이즈지엘에스, 인턴 (2023.07~2024.02)
