@@ -67,8 +67,11 @@ User
 </div>
 
 
+<div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdghdlr1)](https://solved.ac/wkdghdlr1/)
+
+</div>
 
 
 </div>
