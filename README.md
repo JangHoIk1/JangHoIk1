@@ -14,6 +14,29 @@
 
 </div>
 
+<h1>What I Like</h1>
+
+User
+<div class="image-container" style="display: flex;">
+
+ <div style="padding-right:200px">
+<img src="https://github.com/JangHoIk1/JangHoIk1/assets/94967088/f6d1887f-0ce7-4ffc-bc7e-c483d9d36061" width="200"/>
+<img src="https://github.com/JangHoIk1/JangHoIk1/assets/94967088/c78586b4-596c-4e8f-a4bd-32130a586564" width="200"/>
+<img src="https://github.com/JangHoIk1/JangHoIk1/assets/94967088/f845ea5e-6794-4df1-ab72-94694f9be3d8" width="200"/>
+ </div>
+</div>
+
+
+
+
+  
+
+- 🎵 Listen Music
+- 🏀 BasketBall
+- ♦️ Holdem
+
+
+
 <h1>Tech Stack</h1>
 <div class="image-container" style="display: flex;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -45,25 +68,5 @@
 
 
 </div>
-<h1>What I Like</h1>
-
-User
-<div class="image-container" style="display: flex;">
-
- <div style="padding-right:200px">
-<img src="https://github.com/JangHoIk1/JangHoIk1/assets/94967088/f6d1887f-0ce7-4ffc-bc7e-c483d9d36061" width="200"/>
-<img src="https://github.com/JangHoIk1/JangHoIk1/assets/94967088/c78586b4-596c-4e8f-a4bd-32130a586564" width="200"/>
-<img src="https://github.com/JangHoIk1/JangHoIk1/assets/94967088/f845ea5e-6794-4df1-ab72-94694f9be3d8" width="200"/>
- </div>
-</div>
-
-
-
-
-  
-
-- 🎵 Listen Music
-- 🏀 BasketBall
-- ♦️ Holdem
 
 
