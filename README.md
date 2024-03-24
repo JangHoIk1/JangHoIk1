@@ -4,7 +4,7 @@
 # HOIK 😉
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:bluesky2915@gmail.com)
 <span>
-  <a href="https://www.instagram.com/6unoyunr/">
+  <a href="https://www.instagram.com/jangikho/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
   </a>
 </span>
