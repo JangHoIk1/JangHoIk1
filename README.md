@@ -74,11 +74,12 @@
 </div>
 
 
-<div class="image-container" style="width:50;">
-  
-![HoIk's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangHoIk1&show_icons=true&theme=radical)
+<p class="image-container" style="display: flex;">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdghdlr1)](https://solved.ac/wkdghdlr1/)
+
+  ![HoIk's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangHoIk1&show_icons=true&theme=radical)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdghdlr1)](https://solved.ac/wkdghdlr1/)
+
 
 </div>
 
