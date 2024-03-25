@@ -24,7 +24,7 @@
 
 <h1>Vocabulary</h1>
 <div>
-  Passion
+  <h3>Passion</h3>
 </div>
 
 <h1>What I Like</h1>
