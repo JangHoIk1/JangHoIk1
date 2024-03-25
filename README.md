@@ -38,7 +38,7 @@
 <h1>Certification</h1>
 <div>
 <p>
-  <h6>SQL Developer
+  <h6>SQL 개발자
 </p>
 <p>
   <h6>데이터분석 준전문가
