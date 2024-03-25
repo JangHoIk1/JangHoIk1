@@ -97,9 +97,9 @@
 
 <h1>Experience</h1>
 <div class="image-container">
-<p>
+
 - 💵 신한투자증권 프로 디지털 아카데미 4기 (2024.03~ )
-</p>
+
 - 📄 레이즈지엘에스, 인턴 (2023.07~2024.02)
 - 🧑‍💻 피나클 인베스트먼트, 웹 개발자 (2022.08~2023.05) 
 - 🏢 (주)이투스 교육, 서비스 운영팀 (2020.10~2021.02)
@@ -111,7 +111,6 @@
 <p class="image-container" style="display: flex;">
 
   ![HoIk's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangHoIk1&show_icons=true&theme=radical)
-  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdghdlr1)](https://solved.ac/wkdghdlr1/)
 
 
