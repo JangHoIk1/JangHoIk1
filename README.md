@@ -19,7 +19,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=100&color=000000&repeat=false&random=false&width=700&height=49&lines=-+%F0%9F%8C%B1+I'm+currently+learning+Java%2C+Spring%2C+Algorithm)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=7000&pause=100&color=000000&repeat=false&random=false&width=700&height=49&lines=-+%F0%9F%A5%87+I+majored+in+Computer+Science)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=7000&pause=100&color=000000&repeat=false&random=false&width=700&height=49&lines=-+%F0%9F%9A%89+My+hometown+is+Busan%2C+in+Korea)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=7000&pause=100&random=false&width=700&lines=-+%F0%9F%92%A1+I+want+to+be+a+Backend+Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=7000&pause=100&repeat=false&random=false&width=700&lines=-+%F0%9F%92%A1+I+want+to+be+a+Backend+Programmer)](https://git.io/typing-svg)
 
 <h1>What I Like</h1>
 
