@@ -56,6 +56,9 @@
     <h6>파이썬프로그래밍활용능력 1급</h6>
 
   <p>
+    <h6>Google Analytics Individual Qualification</h6>
+    
+  <p>
     <h6>빅데이터분석실무 2급</h6>
 
   <p>
