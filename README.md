@@ -19,29 +19,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=7000&pause=100&color=000000&repeat=false&random=false&width=700&height=49&lines=-+%F0%9F%9A%89+My+hometown+is+Busan%2C+in+Korea)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=7000&pause=100&color=000000&repeat=false&random=false&width=700&height=49&lines=-+%F0%9F%A5%87+I+majored+in+Computer+Science)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=100&color=000000&repeat=false&random=false&width=700&height=49&lines=-+%F0%9F%8C%B1+I'm+currently+learning+Java%2C+Spring%2C+Algorithm)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=7000&pause=100&repeat=false&random=false&width=700&lines=-+%F0%9F%92%A1+I+want+to+be+a+Backend+Programmer)](https://git.io/typing-svg)
-
-
-<h1>Vocabulary</h1>
-<div>
-  <h3>Passion</h3>
-</div>
-
-<h1>What I Like</h1>
-
-
-<div class="image-container" style="display: flex;">
-
- <div>
-<img src="https://github.com/JangHoIk1/JangHoIk1/assets/94967088/f6d1887f-0ce7-4ffc-bc7e-c483d9d36061" width="100"/>
-<img src="https://github.com/JangHoIk1/JangHoIk1/assets/94967088/c78586b4-596c-4e8f-a4bd-32130a586564" width="100"/>
-<img src="https://github.com/JangHoIk1/JangHoIk1/assets/94967088/f845ea5e-6794-4df1-ab72-94694f9be3d8" width="100"/>
- </div>
-</div>
-
-
-<h1>Certification</h1>
-<div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&durati사</h6>
 
   <p>
     <h6>SQL 개발자</h6>
